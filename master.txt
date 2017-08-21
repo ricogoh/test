@@ -1,4 +1,2 @@
 m0
 merge
-test
-M1
