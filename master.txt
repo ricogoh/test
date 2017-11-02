@@ -10,4 +10,5 @@ master
 a6
 master git
 windows 
-
+color
+yes
