@@ -11,4 +11,6 @@ a6
 master git
 windows 
 color
-yes
+yes1
+no
+test
