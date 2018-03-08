@@ -7,4 +7,3 @@ a8b
 a1 changes
 from github
 continue from master
-
