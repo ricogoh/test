@@ -6,7 +6,12 @@ a8a
 a8b
 <<<<<<< HEAD
 a1 changes
+<<<<<<< HEAD
 a1 again
 =======
 from github
 >>>>>>> Update master.txt
+=======
+from github
+continue from master
+>>>>>>> 791994a5b9f0ba0404b832694683a2f29221aaaf
