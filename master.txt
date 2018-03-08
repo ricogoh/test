@@ -4,5 +4,9 @@ m1
 m2
 a8a
 a8b
+<<<<<<< HEAD
 a1 changes
 a1 again
+=======
+from github
+>>>>>>> Update master.txt
