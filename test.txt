@@ -1,7 +1,4 @@
 t1
 t2
 from github
-<<<<<<< HEAD
-=======
 from github 2
->>>>>>> 8b386189c75fd5550ca83c3cc0b213d03caa6c41
