@@ -8,3 +8,5 @@ a1 changes
 a1 again
 from github
 a1 2
+from github
+continue from master
